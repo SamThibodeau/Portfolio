@@ -1,3 +1,6 @@
 body {
-  backround-color: palevioletred;
+  background-color: palevioletred;
+}
+h1 { 
+  color: green;
 }

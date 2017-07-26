@@ -2,5 +2,5 @@ body {
   background-color: yellow;
 }
 h3 { 
-  color: blue;
+  color: rbg(39, 191,255);
 }

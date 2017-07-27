@@ -1,25 +1,12 @@
-body {
-  background-color: rgb(213,80,255);
+body{
+  background-color: rgb(255,132,0)
+}
+h1 {
+  text-allign: center;
+  color: rgb(0,0,255)
 }
 
-h1 { 
-    color: rgb(0,255,0);
-    text-align: center;
+p{ 
+  color:rgb(0,0,255)
 }
-
-p {
-   text-align: center;
-  margin:50px;
-}
-
-li {
-  float:left;
-  font-size:25px;
-  text-decoration:none;
-  margin: 25px;
-}
-
-img {
- float: center; 
-}
-
+  

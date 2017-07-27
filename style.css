@@ -12,8 +12,9 @@ p {
   margin: 50px;
 }
 
-ul {
+li {
   float:left;
+  font-size: 25px;
 }
 
 img {

@@ -1,6 +1,11 @@
 body{
   background-color: rgb(255,132,0)
 }
+
+img{
+ float:inherit; 
+}
+
 h1 {
     display:block;
   text-align:center;
@@ -23,8 +28,4 @@ li {
 }
 
 li:hover {
-  background-color:rgb(56, 56, 56);
-  
-  img{
- float:inherit; 
-}
+  background-color:#616161;

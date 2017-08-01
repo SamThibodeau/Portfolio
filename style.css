@@ -18,6 +18,9 @@ li {
   padding:15px;
   background-color:rgb(255,255,255);
 
-img{
+li:hover {
+  background-color:rgb(56, 56, 56);
+  
+  img{
  float:inherit; 
 }

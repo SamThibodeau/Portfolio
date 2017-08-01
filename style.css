@@ -11,14 +11,16 @@ h1 {
 }
 
 
-img{
- float:center; 
-}
-
 p{ 
       margin:50px;
  text-align:center;
  color:rgb(0,0,255)
+}
+
+
+img{
+ float:center; 
+}
 
 
 }

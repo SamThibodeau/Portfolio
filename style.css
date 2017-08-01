@@ -2,15 +2,18 @@ body{
   background-color: rgb(255,132,0)
 }
 h1 {
+    display:block;
   text-align:center;
   color: rgb(0,0,255)
-    display:block;
+  
 }
 
 p{ 
-  color:rgb(0,0,255)
-  text-align:center;
-  margin:50px;
+      margin:50px;
+ text-align:center;
+ color:rgb(0,0,255)
+
+
 }
   
 li {

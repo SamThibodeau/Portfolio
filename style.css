@@ -29,6 +29,7 @@ li {
   float:left;
   padding:15px;
   background-color:rgb(0,0,0);
+  font-size:25px;
 }
 
 li:hover {

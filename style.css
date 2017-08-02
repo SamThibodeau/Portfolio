@@ -17,12 +17,6 @@ p{
  color:rgb(0,0,255)
 }
 
-
-img{
- float:center; 
-}
-
-
 }
   
 li {
@@ -30,6 +24,11 @@ li {
   padding:15px;
   background-color:rgb(0,0,0);
 
+}
+
+
+img{
+ float:center; 
 }
 
 li:hover {
